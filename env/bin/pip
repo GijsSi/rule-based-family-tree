@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/gijs/Documents/Hva 2022-2023/Intelligent/env/bin/python3" "$0" "$@"
+'''exec' "/home/gijs/Documents/Hva 2022-2023/Intelligent/env/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
